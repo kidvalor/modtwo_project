@@ -6,7 +6,7 @@ function WindInfo (props) {
 
     return (
         <div className="wind">
-            <br />
+            <br />ç
             <img className="addweatherimg" src="https://openweathermap.org/img/wn/50d@2x.png" />
         <p>Wind</p>
         <div className="addweather">
